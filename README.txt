@@ -12,3 +12,5 @@ tenure pendek.
 Rekomendasi bisnis termasuk meningkatkan layanan, segmentasi
 pelanggan, dan komunikasi yang lebih baik dengan berbagai kelompok 
 pelanggan untuk mengurangi churn dan meningkatkan retensi
+
+Link Google Collab : https://colab.research.google.com/drive/17SzVfUESVKv4PMECMhnH2SbtZZquwdMa?usp=sharing
